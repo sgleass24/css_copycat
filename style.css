@@ -1,0 +1,44 @@
+
+
+   .header {
+     display: flex;
+     background-color: black;
+     height: 100px;
+     flex-direction: row;
+   }
+
+   .flex-item{
+     display: flex;
+     flex-direction: row;
+    
+   }
+
+  .flexone img{
+    display: flex;
+     height: 100px;
+     justify-content: flex-start;
+    
+   }
+
+   .flextwo img{
+     display: flex;
+     flex-direction: row;
+     height: 100px
+     width:100px
+     justify-content: flex-end;
+     
+   }
+
+   .flexthree{
+    display: flex;
+    flex-direction: row;
+     height: 300px;
+     flex-direction: column;
+   }
+
+   .flexfour{
+    display: flex;
+     height: 40px;
+     flex-direction: column;
+     justify-content: flex-start;
+   }
